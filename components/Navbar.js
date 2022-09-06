@@ -22,12 +22,16 @@ export const Navbar = ({ toggle }) => {
               <a>Services</a>
             </Link>
           </li>
-          <li>Blog</li>
+          <li>
+            <Link href="/blog" passHref>
+              <a>Blog</a>
+            </Link>
+          </li>
           <li>Testimonials</li>
           <li>About us</li>
           <li>
             <Link href="/contact" passHref>
-              <a>Contact us</a>
+              <a>Contact</a>
             </Link>
           </li>
           <li>
@@ -46,6 +50,7 @@ const NavbarSection = styled.header`
   display: flex;
   justify-content: space-between;
   color: #fff;
+  background-color: #000;
 
   .logo {
     display: inline-block;
