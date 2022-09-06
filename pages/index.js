@@ -209,85 +209,120 @@ export default function Home() {
           <p>What you get when you work with Asphalt Paver SEO.</p>
           <Deliverables>
             <Deliverable>
-              <h3>#1. One-on-one Expert Support</h3>
-              <p>
-                Get free expert advice on how to improve your website for the
-                search engines, and increase your online presence.
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3 className="deliverable">One-on-one Expert Support</h3>
+                <p>
+                  Get free expert advice on how to improve your website for the
+                  search engines, and increase your online presence.
+                </p>
+              </div>
             </Deliverable>
             <Deliverable>
-              <h3>#2. Weekly Updates</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>Weekly Updates</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
             <Deliverable>
-              <h3>#3. Keyword Research and Optimization</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>Keyword Research and Optimization</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
             <Deliverable>
-              <h3>#4. Content / Service Page Updates and Optimization</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>Content / Service Page Updates and Optimization</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
             <Deliverable>
-              <h3>#5. GMB Creation and Optimization</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>GMB Creation and Optimization</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
             <Deliverable>
-              <h3>#6. Competitor Analysis and Monitoring</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>Competitor Analysis and Monitoring</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
           </Deliverables>
           <Deliverables>
             <Deliverable>
-              <h3>#7. Google Analytics and Google Console Setup</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>Google Analytics and Google Console Setup</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
             <Deliverable>
-              <h3>#8. Local SEO</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>Local SEO</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
             <Deliverable>
-              <h3>#9. SEO Audits</h3>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-                quaerat cum officia, doloremque itaque tempora dolor dignissimos
-                nam doloribus quae mollitia nesciunt pariatur, voluptates,
-                consequatur accusantium. Cumque enim voluptatum magni!
-              </p>
+              <div className="check"></div>
+              <div>
+                <h3>SEO Audits</h3>
+                <p>
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Cumque quaerat cum officia, doloremque itaque tempora dolor
+                  dignissimos nam doloribus quae mollitia nesciunt pariatur,
+                  voluptates, consequatur accusantium. Cumque enim voluptatum
+                  magni!
+                </p>
+              </div>
             </Deliverable>
           </Deliverables>
         </div>
@@ -303,7 +338,7 @@ export default function Home() {
         <div className="container">
           <h2>Frequently Asked Questions</h2>
           <div className="faqs">
-            <h3>What is local SEO?</h3>
+            <h3>What is Local SEO?</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi,
               sint ipsa sunt maxime eaque exercitationem neque doloremque earum
@@ -339,7 +374,7 @@ export default function Home() {
             </p>
           </div>
           <div className="faqs">
-            <h3>How Does Local SEO Help to Grow Small Businesses?</h3>
+            <h3>How Does Local SEO Work?</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi,
               sint ipsa sunt maxime eaque exercitationem neque doloremque earum
@@ -365,6 +400,13 @@ export default function Home() {
               molestiae. Earum, alias suscipit!
             </p>
           </div>
+        </div>
+        <div className="btn">
+          <Link href="/seo-audits" passHref>
+            <a>
+              <Button>Get a Free Seo Audit!</Button>
+            </a>
+          </Link>
         </div>
       </section>
       <CallToAction
@@ -442,8 +484,27 @@ const Reason = styled.div`
 `
 
 const Deliverable = styled.div`
-  margin: 2rem 0;
+  margin: 1rem 0;
+  display: flex;
+
+  .check {
+    background-image: url('images/tick.png');
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    display: block;
+    height: 64px;
+    width: 64px;
+    margin-right: 0.5rem;
+  }
 `
+
+// &::before {
+//     content: url('images/tick.png');
+//     position: relative; /*or absolute*/
+//     z-index: 100000; /*a number that's more than the modal box*/
+//     left: -10px;
+//     top: 5px;
+//   }
 const Deliverables = styled.div`
   margin: 2rem 0;
 
