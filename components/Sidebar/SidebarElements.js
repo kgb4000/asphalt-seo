@@ -68,7 +68,7 @@ export const SidebarLinkA = styled.a`
   display: block;
 
   &:hover {
-    color: #a29bfe;
+    color: #ff6600;
     transition: 0.2s ease-in-out;
   }
 `
@@ -85,8 +85,8 @@ export const SidebarBtnLink = styled.div``
 export const SidebarBtnLinkA = styled.a`
   font-size: 1.5rem;
   border-radius: 5px;
-  border: 2px solid #a29bfe;
-  background-color: #a29bfe;
+  border: 2px solid #ff6600;
+  background-color: #ff6600;
   white-space: nowrap;
   padding: 1rem 1.8rem;
   color: #fff;

@@ -4,7 +4,7 @@ export default {
     locales: ['en'],
     defaultLocale: 'en',
   },
-  title: `SEO for Asphalt Paving Companies | Asphalt Paver SEO`,
+  title: `SEO for Asphalt Paving Companies and Contractors | Asphalt Paver SEO`,
   type: 'website',
   locale: 'en_US',
   url: 'https://asphaltpaverseo.com',
@@ -13,7 +13,7 @@ export default {
   canonical: 'https://asphaltpaverseo.com',
   openGraph: {
     url: 'https://asphaltpaverseo.com',
-    title: `SEO for Asphalt Paving Companies | Asphalt Paver SEO`,
+    title: `SEO for Asphalt Paving Companies and Contractors | Asphalt Paver SEO`,
     type: 'website',
     locale: 'en_US',
     description:

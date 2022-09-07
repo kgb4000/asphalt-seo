@@ -14,8 +14,6 @@ import {
   SidebarBtnLinkA,
 } from './SidebarElements'
 
-const calendly = 'https://calendly.com/monica-17/monica-browne-weddings-call'
-
 const Sibebar = ({ isOpen, toggle }) => {
   return (
     <>
@@ -48,7 +46,9 @@ const Sibebar = ({ isOpen, toggle }) => {
           </SidebarMenu>
           <SidebarBtnWrap>
             <SidebarBtnLink>
-              <SidebarBtnLinkA href={calendly}>Book A Call</SidebarBtnLinkA>
+              <SidebarBtnLinkA href="tel:2402660588">
+                Call (240) 266-0588
+              </SidebarBtnLinkA>
             </SidebarBtnLink>
           </SidebarBtnWrap>
         </SidebarWrapper>

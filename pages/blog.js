@@ -96,7 +96,8 @@ const Blog = () => {
                 type="text"
                 value={inputs.email}
                 onChange={handleOnChange}
-                placeholder="Email"
+                placeholder="Email*"
+                required
               />
               <FormButton type="submit">Subscribe</FormButton>
             </form>
