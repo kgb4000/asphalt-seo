@@ -11,7 +11,7 @@ export default function Home() {
       <Hero
         backgroundImage="images/asphalt-seo-cover-img.jpg"
         backgroundHeight="100vh"
-        heroText="Search Engine Optimization for Asphalt Paving Companies and Contractors"
+        heroText="Search Engine Optimization for Asphalt Paving Companies"
         subText="Our team of SEO experts can take control of your SEO, so you can concentrate on growing your asphalt paving business."
         buttonText="Call us today!"
       />
@@ -162,7 +162,7 @@ export default function Home() {
                 title="Local SEO for asphalt companies"
               />
               <div>
-                <h3>Increased Online Visibility</h3>
+                <h3>Increase Your Online Visibility</h3>
                 <p>
                   Get your business in front of potential customers precisely
                   when they search for your services. Increased visibility leads
@@ -186,10 +186,11 @@ export default function Home() {
               <div>
                 <h3>Make More Money</h3>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex
-                  omnis officia ipsa natus id quia consequuntur, sed optio
-                  dolore esse alias inventore dolorem! Beatae eos delectus
-                  veniam, laboriosam tenetur rerum.
+                  A successful SEO campaign will result in more traffic to your
+                  website, and more importantly, more relevant traffic. This
+                  means that the visitors coming to your site are more likely to
+                  be potential customers, resulting in increased sales and
+                  improved ROI.
                 </p>
               </div>
             </Reason>

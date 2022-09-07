@@ -4,20 +4,20 @@ export default {
     locales: ['en'],
     defaultLocale: 'en',
   },
-  title: `SEO for Asphalt Paving Companies and Contractors | Asphalt Paver SEO`,
+  title: `SEO for Asphalt Paving Companies | Asphalt Paver SEO`,
   type: 'website',
   locale: 'en_US',
   url: 'https://asphaltpaverseo.com',
   description:
-    'Our team will help your home service business get more leads and customers while increasing sales and revenue, so you focus on growing your business.',
+    'We use SEO to help asphalt paving companies get more leads and customers, while increasing sales and revenue.',
   canonical: 'https://asphaltpaverseo.com',
   openGraph: {
     url: 'https://asphaltpaverseo.com',
-    title: `SEO for Asphalt Paving Companies and Contractors | Asphalt Paver SEO`,
+    title: `SEO for Asphalt Paving Companies | Asphalt Paver SEO`,
     type: 'website',
     locale: 'en_US',
     description:
-      'Our team will help your home service business get more leads and customers while increasing sales and revenue, so you focus on growing your business.',
+      'We use SEO to help asphalt paving companies get more leads and customers, while increasing sales and revenue.',
     images: [
       {
         url: 'https://asphaltpaverseo.com/public/images/logo.jpg',
@@ -34,7 +34,7 @@ export default {
     site: '@asphaltpaverseo',
     cardType: 'summary_large_image',
     description:
-      "Bowie SEO is an SEO company in Bowie helping small businesses GROW using search engine optimization. Let's see how we can grow your business today.",
+      'We use SEO to help asphalt paving companies get more leads and customers, while increasing sales and revenue.',
     images: [
       {
         url: 'https://asphaltpaverseo.com/public/images/logo.jpg',
